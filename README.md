@@ -1,0 +1,2 @@
+# lab-homework
+Inheritance task
